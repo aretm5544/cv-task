@@ -42,6 +42,8 @@
 
 ## Результаты работы
 
+* https://drive.google.com/file/d/15kovpDPPMyFhANvPYCTCCW9BKm_hbHTi/view?usp=share_link 
+
 * В процессе выполнения скрипт генерирует видеофайл output.mp4 с визуализацией работы модели (отрисовка bounding box и статуса стола).
 
 * События записываются в Pandas DataFrame и экспортируются в results.csv.
